@@ -27,3 +27,8 @@ Esta es la versión final esta versión permite usar cualquier tipo de letra que
 
 ![image](https://user-images.githubusercontent.com/93608793/181362140-5f1ced13-2c24-4424-bc6e-d1c9b07dc433.png)
 
+
+## Created by:
+
+Bernardo de la Sierra Rábago
+
